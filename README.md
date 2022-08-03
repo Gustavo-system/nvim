@@ -1,6 +1,4 @@
-# Neovim Linux - WSL (Windows Subsytem for linux) 
-Toda la explicación se encuentra en mi canal de youtube. [Joaquin Varela ](https://www.youtube.com/channel/UCw1Ipy5_P1OL0zUJMfYC7-A)
-Tengo varios videos con explicaciones de instalación y configuración.
+# Neovim Linux - WSL (Windows Subsytem for linux)
 
 ##  Requerimientos
 - Neovim 5.0+ (Si no es esa version algunos plugins no tienen soporte)
